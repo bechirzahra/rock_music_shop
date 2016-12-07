@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1480004580 source:c:\users\bechir\projet\rock_music_shop\main.cpp
+	<iostream>
+	"Store.h"
+	"Album.h"
+	<algorithm>
+
+1480001517 source:c:\users\bechir\projet\rock_music_shop\src\album.cpp
+	"Album.h"
+	<string>
+
+1480001306 c:\users\bechir\projet\rock_music_shop\include\album.h
+	<string>
+
+1480000383 c:\users\bechir\projet\rock_music_shop\include\store.h
+	<string>
+	"Album.h"
+	<vector>
+
+1480005167 source:c:\users\bechir\projet\rock_music_shop\src\store.cpp
+	"Store.h"
+	"Album.h"
+	<string>
+	<iostream>
+	<algorithm>
+
+1480005427 source:e:\bechir\rock_music_shop\main.cpp
+	<iostream>
+	"Store.h"
+	"Album.h"
+	<algorithm>
+
+1480000383 e:\bechir\rock_music_shop\include\store.h
+	<string>
+	"Album.h"
+	<vector>
+
+1480005450 e:\bechir\rock_music_shop\include\album.h
+	<string>
+
+1480001517 source:e:\bechir\rock_music_shop\src\album.cpp
+	"Album.h"
+	<string>
+
